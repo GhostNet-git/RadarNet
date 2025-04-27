@@ -30,6 +30,7 @@ Ideal para quem deseja mapear rapidamente a rede e obter informações como IPs 
 ---
 
 ## 🛠️ Requisitos
+ Tambem Funciona no linux mais foi criado com foco no windows 
 
 - Python 3.6+
 - Biblioteca Scapy instalada
