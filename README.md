@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostNet-git/RadarNet/main/assets/banner.png" alt="RadarNet Banner" />
+  <img src="https://raw.githubusercontent.com/GhostNet-git/RadarNet/main/banner.png" alt="RadarNet Banner" />
 </p>
 
 <h1 align="center">RadarNet 🚀</h1>
